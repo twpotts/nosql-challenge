@@ -1,0 +1,17 @@
+Description:
+
+This project converts a JSON file into a MongoDB database and then does a brief analysis on the data
+
+Folder contents:
+
+Resources
+	establishments.json
+.gitignore
+NoSQL_analysis_starter.ipynb
+NoSQL_setup_starter.ipynb
+README
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
